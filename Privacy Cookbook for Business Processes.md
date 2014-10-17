@@ -1,10 +1,11 @@
-Privacy Cookbook for Business Processes
+# Privacy Cookbook for Business Processes #
 
-As resource for IPEN
+## As resource for IPEN ##
 
-(Internet Privacy Engineering Network)
 
-– draft – V0.0003 – TO BE DISCUSSED -
+## (Internet Privacy Engineering Network) ##
+
+*– draft – V0.0003 – TO BE DISCUSSED -*
 
 Nightly build – 16.10.2014
 
