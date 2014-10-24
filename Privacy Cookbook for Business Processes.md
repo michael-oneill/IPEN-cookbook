@@ -11,6 +11,10 @@ Cooked boiling hot by Markus Alexander Grete
 Company Mail address: <Markus.Grete@gretEDV.de>
 University Mail address: <grete@l3s.de>
 
+#Disclaimer#
+This cookbook is just a raw collection of things, ideas and resources. It is not a commercial product. It is not 100% correct or free of antagonisms (as the WWW is not "by design"). It is by now not suitable for any specific purpose than collecting information - but it shall be in future.
+
+
 #Events#
 <table>
 <tr><th>Name</th><th>Date</th><th>Place<th>URL</th></tr>
@@ -272,7 +276,7 @@ can correlate all the information.**
 <tr><td>BDSG</td>   <td>Bundesdatenschutzgesetz </td><td>German federal law for data protection</td></tr>
 <tr><td>BP</td>     <td>Business Process</td>        <td>Please refer to: <http://en.wikipedia.org/wiki/Business_process></td></tr>
 <tr><td>BPM</td>    <td>Business Process Modelling</td><td>Constructing BP’s</td></tr>
-<tr><td>contextual identity by[SE]</td><td>So whatever data provide value can be exhanged as long as it does not violate contextual boundaries, ie. identity becomes identifiable (linkable). </td></tr>
+<tr><td>contextual identity</td><td>by[SE]</td><td>So whatever data provide value can be exhanged as long as it does not violate contextual boundaries, ie. identity becomes identifiable (linkable). </td></tr>
 <tr><td>MDS</td>    <td>Model Driven Security</td><td>http://en.wikipedia.org/wiki/Model-driven\_security</td></tr>
 <tr><td>OPEN PMF</td><td>OPEN PMF</td><td>http://www.openpmf.com, http://www.objectsecurity.com/en-home-resources-publist.html, http://www.objectsecurity.com/doc/poster.pdf</td><tr>
 <td>PbD</td>    <td>Privacy by Design</td><td>Please refer to: http://en.wikipedia.org/wiki/Privacy_by_Design</td></tr>
