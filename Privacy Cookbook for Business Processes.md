@@ -343,37 +343,29 @@ display, please send me an email.
 knowing who has which special knowledge or opinion. Just as community we
 can correlate all the information.**
 
-  ------------------------------------------------------------------------------------------------------------------
-  **Name**   **“Real” Name**          **Task for IPEN**
-  ---------- ------------------------ ------------------------------------------------------------------------------
-  [AB]       Aral Balkan              =\> Engineers cookbook
-                                      
-                                      Nice project
-                                      
 
-  [CJ]       Christophe Jouvray       Supplies project information
 
-  [CvL]      Carlo von Lynx           Supplies Info about end-to-end encryption, is IPEN lead for mobile solutions
-
-  [EJ]       Erik JOSEFSSON           Supplies company Information
-
-  [FD]       Frank Dawson             Supplies literature
-
-  [FS]       Florian Stahl            Supplies information. OWASP might supply “counter-measures” (?)
-
-  [JMdA]     José M. del Álamo        Supplies research documentation
-
-  [MAG]      Markus Alexander Grete   Cook at the the Privacy Cookbook for Business Process
-
-  [MON]      Mike O'Neill             =\> Engineers cookbook
-
-  [RB]       Richard Beaumont         Supplies information, see governor.co.uk for company information
-
-  [SJE]      Stephan J. Engberg       Supplies slides and PDF
-
-  UL         Ulrich Lang              Supplies information about MD-Security
-
-  UXOC       Ultan X. O’Carroll       Data protection of Ireland, Supplies information and knowledge
+<table>
+<tr>
+<th>Name</th>
+<th>"Real" Name></th>
+<th>Task for IPEN</th>
+</tr>
+<tr><td>[AB]  </td><td>Aral Balkan</td><td>=> Engineers cookbook, Nice project</td></tr>
+<tr><td>[CJ]  </td><td>Christophe Jouvray</td><td>Supplies project information</td></tr>
+<tr><td>[CvL] </td><td>Carlo von Lynx</td><td>Supplies Info about end-to-end encryption, is IPEN lead for mobile solutions</td></tr>
+<tr><td>[EJ]  </td><td>Erik JOSEFSSON</td><td>Supplies company Information</td></tr>
+<tr><td>[FD]  </td><td>Frank Dawson  </td><td>Supplies literature and more info</td></tr>
+<tr><td>[FS]  </td><td>Florian Stahl </td><td>Supplies information. OWASP might supply “counter-measures” (?)</td></tr>
+<tr><td>[JMdA]</td><td>José M. del Álamo</td><td>Supplies research documentation</td></tr>
+<tr><td>[MAG] </td><td>Markus Alexander Grete</td><td>Cook at the the Privacy Cookbook for Business Process</td></tr>
+<tr><td>[MON] </td><td>Mike O'Neill</td><td>Cook at Engineers cookbook</td></tr>
+<tr><td>[RB]  </td><td>Richard Beaumont</td><td>Supplies information, see governor.co.uk for company information</td></tr>
+<tr><td>[SJE] </td><td>Stephan J. Engberg</td><td>Supplies slides and PDF</td></tr>
+<tr><td>[UL]  </td><td>Ulrich Lang</td><td>Supplies information about MD-Security</td></tr>
+<tr><td>[UXOC]</td><td>Ultan X. O’Carroll</td><td>Data protection of Ireland, Supplies information and knowledge</td></tr>
+</table>
+                
   ------------------------------------------------------------------------------------------------------------------
 
 <span id="_Toc401233225" class="anchor"></span>Glossary
