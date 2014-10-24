@@ -126,89 +126,97 @@ If you are from a software vendor for BPM, please support.
 # Literature ##
 Danger: The comment “Useable here for\*” in the tables below is very from subjective points of view and towards what the writer thinks on his/her own. Please feel free to get me informed, if something is completely wrong.
 
-  Title                     Attribute Based Access Control
-  ------------------------- ----------------------------------------------------------------------------
-  Information supplied by   MG
-  Useable here for\*        Restricting rights with state-of-the-art Access Systems
-  Download-Page             <http://nvlpubs.nist.gov/nistpubs/specialpublications/NIST.sp.800-162.pdf>
-  Further Information       For further information: Prof. Ravi Sandhu
-  Added                     16.10.2014
+<table>
+<tr><th>Title</th>                   <th>Attribute Based Access Control</th></tr>
+<tr><td>Information supplied by</td> <td>MG</td></tr>
+<tr><td>Useable here for</td>        <td>Restricting rights with state-of-the-art Access Systems</td></tr>
+<tr><td>Download-Page</td>           <td><http://nvlpubs.nist.gov/nistpubs/specialpublications/NIST.sp.800-162.pdf></td></tr>
+<tr><td>Further Information</td>     <td>For further information: Prof. Ravi Sandhu</td></tr>
+<tr><td>Added</td>                   <td>16.10.2014</td></tr>
+</table>
 
-  Title                     Android Application Secure Design/Secure Coding Guidebook
-  ------------------------- -----------------------------------------------------------
-  Information supplied by   JSSEC.ORG / via FD
-  Useable here for\*        Heading towards Round-Trip engineering privacy
-  Download-Page             <http://www.jssec.org/English>
-  Further Information       Seems to [MAG] as a technical and technological Guidebook
-  Added                     04.10.2014
+<table>
+<tr><th>Title</th>                   <th>Android Application Secure Design/Secure Coding Guidebook</th></tr>
+<tr><td>Information supplied by</td> <td>JSSEC.ORG / via FD</td></tr>
+<tr><td>Useable here for</td>        <td>Heading towards Round-Trip engineering privacy</td></tr>
+<tr><td>Download-Page</td>           <td>http://www.jssec.org/English</td></tr>
+<tr><td>Further Information</td>     <td>Seems to [MAG] as a technical and technological Guidebook</td></tr>
+<tr><td>Added</td>                   <td>04.10.2014</td></tr>
+</table>
 
-  Title                     Enable secure product delivery
-  ------------------------- ------------------------------------------------------------------------
-  Information supplied by   FD
-  Useable here for\*        Thinking about basic processes as already established to secure coding
-  Download-Page             <http://www8.hp.com/h20195/v2/GetPDF.aspx/4AA5-3485ENW.pdf>
-  Further Information       
-  Added                     04.10.2014
+<table>
+<tr><th>Title</th>                   <th>Enable secure product delivery</th></tr>
+<tr><td>Information supplied by</td> <td>[FD]</td></tr>
+<tr><td>Useable here for</td>        <td>Thinking about basic processes as already established to secure coding</td></tr>
+<tr><td>Download-Page</td>           <td>http://www8.hp.com/h20195/v2/GetPDF.aspx/4AA5-3485ENW.pdf</td></tr>
+<tr><td>Further Information</td>     <td>Please add</td></tr>
+<tr><td>Added</td>                   <td>04.10.2014</td></tr>
+</table>
 
-  Title                     Engineering privacy requirements
-  ------------------------- -------------------------------------------------------------------------
-  Information supplied by   JMdA
-  Useable here for\*        More for the engineering cookbook
-  Download-Page             The document is available in IEEE Xplore Digital Library at <http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6890523> 
-  Further Information       Martin, Y.S., Del Álamo, J.M., Yelmo, J.C., Privacy Requirements Engineering: Valuable Lessons from Another Realm, In 1st International Workshop on Evolving Security and Privacy Requirements Engineering - ESPRE2014, pp. 19-24, Karlskrona (Sweden), 25 Aug 2014. doi: 10.1109/ESPRE.2014.6890523
-  Added                     04.10.2014
+<table>
+<tr><th>Title</th>                   <th>Engineering privacy requirements</th></tr>
+<tr><td>Information supplied by</td> <td>JMdA</td></tr>
+<tr><td>Useable here for</td>        <td>More for the engineering cookbook</td></tr>
+<tr><td>Download-Page</td>           <td>The document is available in IEEE Xplore Digital Library at http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6890523.</td></tr>
+<tr><td>Further Information</td>     <td>Martin, Y.S., Del Álamo, J.M., Yelmo, J.C., Privacy Requirements Engineering: Valuable Lessons from Another Realm, In 1st International Workshop on Evolving Security and Privacy Requirements Engineering - ESPRE2014, pp. 19-24, Karlskrona (Sweden), 25 Aug 2014. doi: 10.1109/ESPRE.2014.6890523</td></tr>
+<tr><td>Added</td>                   <td>04.10.2014</td></tr>
+</table>
 
-  
-  Title                     Linking security with Economics
-  ------------------------- ------------------------------------------------------------------------
-  Information supplied by   SJE
-  Useable here for\*        Finding the business and economic value of privacy
-  Download-Page             <https://ec.europa.eu/digital-agenda/sites/digital-agenda/files/Stephan.pdf>
-  Further Information       SJE supplied more links which seem not very important for this document because they are more technological related. Just picked one which could help to understand his point of view:
-                            <http://blog.privacytrust.eu/public/Slides/au_conf670306_engberg_en.pdf>
-  Added                     04.10.2014
+<table>
+<tr><th>Title</th>                   <th>Linking security with Economics</th></tr>
+<tr><td>Information supplied by</td> <td>SJE</td></tr>
+<tr><td>Useable here for</td>        <td>Finding the business and economic value of privacy</td></tr>
+<tr><td>Download-Page</td>           <td>https://ec.europa.eu/digital-agenda/sites/digital-agenda/files/Stephan.pdf</td></tr>
+<tr><td>Further Information</td>     <td>SJE supplied more links which seem not very important for this document because they are more technological related. Just picked one which could help to understand his point of view:  http://blog.privacytrust.eu/public/Slides/au_conf670306_engberg_en.pdf</td></tr>
+<tr><td>Added</td>                   <td>04.10.2014</td></tr>
+</table>
 
-  Title                     Model-driven security
-------------------------- ------------------------------------------------------------------------
-  Information supplied by   UL
-  Useable here for\*        Evaluation of Model driven security
-  Download-Page             http://en.wikipedia.org/wiki/Model-driven\_security
-  Further Information       
-  Added                     16.10.2014
+<table>
+<tr><th>Title</th>                   <th>Model-driven security</th></tr>
+<tr><td>Information supplied by</td> <td>UL</td></tr>
+<tr><td>Useable here for</td>        <td>Evaluation of Model driven security</td></tr>
+<tr><td>Download-Page</td>           <td>http://en.wikipedia.org/wiki/Model-driven\_security</td></tr>
+<tr><td>Further Information</td>     <td>[...] Please supply!</td></tr>
+<tr><td>Added</td>                   <td>16.10.2014</td></tr>
+</table>
 
-  Title                     New Digital Security Models
-  ------------------------- ---------------------------------------------------------------------------
-  Information supplied by   SJE
-  Useable here for\*        Telco / ITK privacy issues
-  Download-Page             <http://blog.privacytrust.eu/public/Reports/NewDigitalSecurityModels.pdf>
-  Further Information       
-  Added                     04.10.2014
+<table>
+<tr><th>Title</th>                   <th>New Digital Security Models</th></tr>
+<tr><td>Information supplied by</td> <td>SJE</td></tr>
+<tr><td>Useable here for</td>        <td>Telco / ITK privacy issues</td></tr>
+<tr><td>Download-Page</td>           <td>http://blog.privacytrust.eu/public/Reports/NewDigitalSecurityModels.pdf</td></tr>
+<tr><td>Further Information</td>     <td></td></tr>
+<tr><td>Added</td>                   <td>04.10.2014</td></tr>
+</table>
 
-  Title                     OWASP Top 10 Privacy Risks Project
-  ------------------------- ----------------------------------------------------------------------------------------------
-  Information supplied by   FS
-  Useable here for\*        Addition of information
-  Download-Page             <https://www.owasp.org/index.php/OWASP_Top_10_Privacy_Risks_Project>
-  Further Information       Will provide us with information about the Top 10 Privacy Risks according to expert surveys.
-  Added                     16.10.2014
+<table>
+<tr><th>Title</th>                   <th>OWASP Top 10 Privacy Risks Project</td></th>
+<tr><td>Information supplied by</td> <td>FS</td></tr>
+<tr><td>Useable here for</td>        <td>Addition of information</td></tr>
+<tr><td>Download-Page</td>           <td>https://www.owasp.org/index.php/OWASP_Top_10_Privacy_Risks_Project</td></tr>
+<tr><td>Further Information</td>     <td>Will provide us with information about the Top 10 Privacy Risks according to expert surveys.</td></tr>
+<tr><td>Added</td>                   <td>16.10.2014</td></tr>
+</table>
 
-  Title                     Privacy Engineering – A dataflow and ontological approach
-------------------------- ------------------------------------------------------------------------
-  Information supplied by   FS
-  Useable here for\*        “it is about applying a structured approach to classification and modelling at data, storage, process, user, and environmental level, illustrated with a few use-cases
-                            It has a proposed (or "sample") vocabulary/taxonomy with the aim of engendering PbD from requirements gathering through to end-of-life, and a means to communicate in the organisation, engineering and legal teams. So its not a "cookbook" in my mind, and is one approach to PbD in the engineering lifecycle. As an example of the depth that data modelling for privacy can go to it is good, I think, but it may not be suitable for all organisations.” as to UXOC
-                            “I’ve got a copy of the book – have read the initial chapters.  I really like the modelling approach he takes – which encourages drilling down from high level data flows that anyone can understand, to the technical levels where privacy controls can actually get built in.” as to RB
-  Download-Page             <http://www.privacyengineeringbook.net> (only overview, Amazon book)
-  Further Information       Book by Ian Oliver
-  Added                     16.10.2014
-  
-  Title                     “Salt” spelled: NaCl
-  ------------------------- ------------------------------------------------------------------------
-  Information supplied by   CvL
-  Useable here for\*        More for the engineering cookbook – About a network comm. library
-  Download-Page             <http://cdn.media.ccc.de/congress/2013/workshops/30c3-WS-en-YBTI_OS-Bernstein_Lange_Schwabe-NaCl_and_TweetNaCl.webm>
-  Further Information       <http://cdn.media.ccc.de/congress/2013/workshops/30c3-WS-en-YBTI_OS-Jon_Solworth-Ethos_Operating_System.webm>
-  Added                     04.10.2014
+<table>
+<tr><th>Title</th>                   <th>Privacy Engineering – A dataflow and ontological approach</th></tr>
+<tr><td>Information supplied by</td> <td>FS</td></tr>
+<tr><td>Useable here for</td>        <td>“it is about applying a structured approach to classification and modelling at data, storage, process, user, and environmental level, illustrated with a few use-cases. It has a proposed (or "sample") vocabulary/taxonomy with the aim of engendering PbD from requirements gathering through to end-of-life, and a means to communicate in the organisation, engineering and legal teams. So its not a "cookbook" in my mind, and is one approach to PbD in the engineering lifecycle. As an example of the depth that data modelling for privacy can go to it is good, I think, but it may not be suitable for all organisations.” as to [UXOC]
+“I’ve got a copy of the book – have read the initial chapters.  I really like the modelling approach he takes – which encourages drilling down from high level data flows that anyone can understand, to the technical levels where privacy controls can actually get built in.” as to [RB]</td></tr>
+<tr><td>Download-Page</td>           <td>http://www.privacyengineeringbook.net (only overview, Amazon book)</td></tr>
+<tr><td>Further Information</td>     <td>Book by Ian Oliver</td></tr>
+<tr><td>Added</td>                   <td>16.10.2014</td></tr>
+</table>
+
+<table>
+<tr><th>Title</th>                   <th>“Salt” spelled: NaCl</th></tr>
+<tr><td>Information supplied by</td> <td>CvL</td></tr>
+<tr><td>Useable here for</td>        <td>More for the engineering cookbook – About a network comm. library</td></tr>
+<tr><td>Download-Page</td>           <td>http://cdn.media.ccc.de/congress/2013/workshops/30c3-WS-en-YBTI_OS-Bernstein_Lange_Schwabe-NaCl_and_TweetNaCl.webm</td></tr>
+<tr><td>Further Information</td>     <td>http://cdn.media.ccc.de/congress/2013/workshops/30c3-WS-en-YBTI_OS-Jon_Solworth-Ethos_Operating_System.webm</td></tr>
+<tr><td>Added</td>                   <td>04.10.2014</td></tr>
+</table>
+
 
 # Companies and Projects #
 <table>
