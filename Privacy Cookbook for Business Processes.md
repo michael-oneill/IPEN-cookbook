@@ -348,7 +348,7 @@ can correlate all the information.**
 <table>
 <tr>
 <th>Name</th>
-<th>"Real" Name></th>
+<th>"Real" Name</th>
 <th>Task for IPEN</th>
 </tr>
 <tr><td>[AB]  </td><td>Aral Balkan</td><td>=> Engineers cookbook, Nice project</td></tr>
@@ -368,29 +368,17 @@ can correlate all the information.**
                 
   ------------------------------------------------------------------------------------------------------------------
 
-<span id="_Toc401233225" class="anchor"></span>Glossary
-
-  ---------------------------------------------------------------------------------------------------------------
-  **Short**   **Element**                      **Abstract**
-  ----------- -------------------------------- ------------------------------------------------------------------
-  ABAC        Attribute Based Access Control   Idea: Prof. Ravi Sandhu
-                                               
-                                               @see “Literature” above / „Attribute Based Access Control“
-                                               
-  Anon...     Anonymising intermediary                                         
-
-
-  BDSG        Bundesdatenschutzgesetz          German federal law for data protection
-
-  BP          Business Process                 Please refer to: <http://en.wikipedia.org/wiki/Business_process>
-
-  BPM         Business Process Modelling       Constructing BP’s
-
-  PbD         Privacy by Design                Please refer to:
-                                               
-                                               <http://en.wikipedia.org/wiki/Privacy_by_Design>
-                                               
-  ---------------------------------------------------------------------------------------------------------------
+# Glossary #
+<table>
+<tr><th>Short</th><th>Element</th><th>Abstract</th></tr>
+<tr><td>ABAC</td><td>Attribute Based Access Control</td><td>Idea: Prof. Ravi Sandhu @see “Literature” above / „Attribute Based Access Control“</td></tr>
+<tr><td>Anon...</td><td>Anonymising intermediary</td><td>Example by [MON]: The User is presented with an iframe (other origin) with a form and a textbox, the email address is sent to the intermediary which posts a one-time ID to the containing site (this can be done with JavaScript). The new password along with the ID is sent to the intermediary who forwards it to the user’s email address. The ID is then deleted. The trick would be to make the system distributed i.e. over p2p, so you would not have to have a trusted intermediary.</td></tr>
+<tr><td>BDSG</td>   <td>Bundesdatenschutzgesetz </td><td>German federal law for data protection</td></tr>
+<tr><td>BP</td>     <td>Business Process</td>        <td>Please refer to: <http://en.wikipedia.org/wiki/Business_process></td></tr>
+<tr><td>BPM</td>    <td>Business Process Modelling</td><td>Constructing BP’s</td></tr>
+<tr><td>PbD</td>    <td>Privacy by Design</td><td>Please refer to: http://en.wikipedia.org/wiki/Privacy_by_Design</td></tr>
+</table>
+                         
 
 [^1]: Sorry, in Germany we must make a difference between anonymized and
     pseudonymized as to “BDSG” law.
