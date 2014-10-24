@@ -9,11 +9,10 @@
 
 Nightly build – 16.10.2014
 
-Begun by Markus Alexander Grete – PLEASE participate and add your
-content!!!
+Begun by Markus Alexander Grete 
+– PLEASE participate and add your content!!!
 
 Company Mail address: <Markus.Grete@gretEDV.de>
-
 University Mail address: <grete@l3s.de>
 
 <span id="_Toc401233205" class="anchor"></span>Motivation
@@ -26,32 +25,21 @@ Let’s start with the basics.
 privacy
 
 1.  Proactive not Reactive; Preventative not Remedial
-
 2.  Privacy as default setting
-
 3.  Privacy embedded into design
-
 4.  Full functionality – Positive-Sum not Zero-Sum
-
 5.  End-to-End Security – Full Lifecycle Protection
-
 6.  Visibility and Transparency – Keep it Open
-
 7.  Respect for User Privacy – Keep it User-Centric
 
 <span id="_Toc401233207" class="anchor"></span>Basic concepts of privacy
 
--   the right to be forgotten
-
--   the minimum acquisition of data
-
--   the processing by consent
-
--   anonymity
-
--   purpose-specification
-
--   […] help me to continue!
+* the right to be forgotten
+* the minimum acquisition of data
+* the processing by consent
+* anonymity
+* purpose-specification
+* […] help me to continue!
 
 The OWASP project is doing expert surveys to evaluate the Top 10 Privacy
 Risks as to international security experts. Thanks to FS and his project
@@ -397,6 +385,8 @@ can correlate all the information.**
                                                
                                                @see “Literature” above / „Attribute Based Access Control“
                                                
+  Anon...     Anonymising intermediary                                         
+
 
   BDSG        Bundesdatenschutzgesetz          German federal law for data protection
 
