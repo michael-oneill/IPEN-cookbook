@@ -5,12 +5,19 @@
 
 ## (Internet Privacy Engineering Network) ##
 
-Begun by Markus Alexander Grete 
+Cooked boiling hot by Markus Alexander Grete 
 – PLEASE participate and add your content!!!
 
 Company Mail address: <Markus.Grete@gretEDV.de>
 University Mail address: <grete@l3s.de>
 
+#Events#
+<table>
+<tr><th>Name</th><th>Date</th><th>Place<th>URL</th></tr>
+<tr><td>W3C Workshop on Privacy and User–Centric Controls</td><td>20–21 November 2014</td><td>Berlin,Germany</td><td>http://www.w3.org/2014/privacyws/</td></tr>
+<tr><td>Privacy as Innovation</td><td>27th Nov 2014</td><td>IT University of Copenhagen</td><td>http://privacyasinnovation.wordpress.com/2014/10/21/privacy-as-innovation-round-table-it-universitetet-i-kobenhavn-27-november-kl-15-00-17-00/</td></tr>
+</table>
+  
 # Motivation #
 If you are in Business Process Modelling (BPM), you need to care about the privacy topics. Let’s start with the basics.
 
@@ -172,7 +179,7 @@ Danger: The comment “Useable here for\*” in the tables below is very from su
 </table>
 
 <table>
-<tr><th>Title</th>                   <th>Model-driven security</th></tr>
+<tr><th>Title</th>                   <th>Model-driven security (MDS)</th></tr>
 <tr><td>Information supplied by</td> <td>UL</td></tr>
 <tr><td>Useable here for</td>        <td>Evaluation of Model driven security</td></tr>
 <tr><td>Download-Page</td>           <td>http://en.wikipedia.org/wiki/Model-driven\_security</td></tr>
@@ -222,7 +229,7 @@ Danger: The comment “Useable here for\*” in the tables below is very from su
 <table>
 <tr><th>Homepage</th>                              <th>Suggested by</th><th>Info</th></tr>
 <tr><td>http://governor.co.uk</td>                 <td>[MAG]</td>       <td>PLEASE SUPPLY INFORMATION</td></tr>
-<tr><td>http://objectsecurity.com/en-home.html</td><td>[MAG]</td>       <td>PLEASE SUPPLY INFORMATION</td></tr>
+<tr><td>http://objectsecurity.com/en-home.html</td><td>[MAG]</td>       <td>ObjectSecurity is an information security specialist company with an innovative technology portfolio and strong consulting, R&D, services track record. OpenPMF Model-Driven Security Policy Automation turns human-manageable security policies automatically into the matching technical implementation, and generates accreditation/compliance evidence automatically. It reduces cost, improves security, and speeds up accreditation/compliance. OpenPMF supports agile, complex IT landscapes (SOA, IoT, PaaS...) and policies; it’s based on model-driven security (MDS) and standards (Ecore/MOF, XMI, XACML, ABAC ...)</td></tr>
 <tr><td>http://pripareproject.eu/</td>             <td>[CJ]</td>        <td>“PReparing Industry to Privacy-by-design by supporting its Application in Research. Seems a good attempt. Interested ones should read.” http://pripareproject.eu/wp-content/uploads/2014/06/PRIPARE-Position-Paper-v1-WP1.pdf</td></tr>
 <tr><td>https://cryptech.is/</td>                  <td>[EJ]</td>       <td>They are doing crypto stuff for secured communication. Seem to have some guidelines for HW-design and -evaluation.</td></tr>
 </table>               
@@ -261,9 +268,12 @@ can correlate all the information.**
 <table>
 <tr><th>Short</th><th>Element</th><th>Abstract</th></tr>
 <tr><td>ABAC</td><td>Attribute Based Access Control</td><td>Idea: Prof. Ravi Sandhu @see “Literature” above / „Attribute Based Access Control“</td></tr>
-<tr><td>Anon...</td><td>Anonymising intermediary</td><td>Example by [MON]: The User is presented with an iframe (other origin) with a form and a textbox, the email address is sent to the intermediary which posts a one-time ID to the containing site (this can be done with JavaScript). The new password along with the ID is sent to the intermediary who forwards it to the user’s email address. The ID is then deleted. The trick would be to make the system distributed i.e. over p2p, so you would not have to have a trusted intermediary.</td></tr>
+<tr><td>Anon...</td><td>Anonymising intermediary</td><td>Example by [MON]: The User is presented with an iframe (other origin) with a form and a textbox, the email address is sent to the intermediary which posts a one-time ID to the containing site (this can be done with JavaScript). The new password along with the ID is sent to the intermediary who forwards it to the user’s email address. The ID is then deleted. The trick would be to make the system distributed i.e. over p2p, so you would not have to have a trusted intermediary. Addition: The intermediary would be trusted to delete the email after it was used. Even if it was co-opted it could only collect the email, not any other information e.g. the containing page url. If it was based on a distributed store then worst case only a subset of emails (without any associated data) could be syphoned off. </td></tr>
 <tr><td>BDSG</td>   <td>Bundesdatenschutzgesetz </td><td>German federal law for data protection</td></tr>
 <tr><td>BP</td>     <td>Business Process</td>        <td>Please refer to: <http://en.wikipedia.org/wiki/Business_process></td></tr>
 <tr><td>BPM</td>    <td>Business Process Modelling</td><td>Constructing BP’s</td></tr>
-<tr><td>PbD</td>    <td>Privacy by Design</td><td>Please refer to: http://en.wikipedia.org/wiki/Privacy_by_Design</td></tr>
+<tr><td>contextual identity by[SE]</td><td>So whatever data provide value can be exhanged as long as it does not violate contextual boundaries, ie. identity becomes identifiable (linkable). </td></tr>
+<tr><td>MDS</td>    <td>Model Driven Security</td><td>http://en.wikipedia.org/wiki/Model-driven\_security</td></tr>
+<tr><td>OPEN PMF</td><td>OPEN PMF</td><td>http://www.openpmf.com, http://www.objectsecurity.com/en-home-resources-publist.html</td><tr>
+<td>PbD</td>    <td>Privacy by Design</td><td>Please refer to: http://en.wikipedia.org/wiki/Privacy_by_Design</td></tr>
 </table>
