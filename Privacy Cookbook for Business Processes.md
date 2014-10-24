@@ -211,22 +211,14 @@ Danger: The comment “Useable here for\*” in the tables below is very from su
   Added                     04.10.2014
 
 # Companies and Projects #
-  **Homepage**                               **Suggested by**   **Info**
-  ------------------------------------------ ------------------ --------------------------------------------------------------------------------------------------------------------
-  <http://governor.co.uk>                    [MAG]              \<\<\< PLEASE SUPPLY INFORMATION \>\>\>
-
-  <http://objectsecurity.com/en-home.html>   [MAG]              \<\<\< PLEASE SUPPLY INFORMATION \>\>\>
-
-  <http://pripareproject.eu/>                [CJ]               “PReparing Industry to Privacy-by-design by supporting its Application in Research”
-                                                                
-                                                                Seems a good attempt. Interested ones should read.
-                                                                
-                                                                <http://pripareproject.eu/wp-content/uploads/2014/06/PRIPARE-Position-Paper-v1-WP1.pdf>
-                                                                
-
-  <https://cryptech.is/>                     [EJ]               They are doing crypto stuff for secured communication. Seem to have some guidelines for HW-design and -evaluation.
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+<table>
+<tr><th>Homepage</th>                              <th>Suggested by</th><th>Info</th></tr>
+<tr><td>http://governor.co.uk</td>                 <td>[MAG]</td>       <td>PLEASE SUPPLY INFORMATION</td></tr>
+<tr><td>http://objectsecurity.com/en-home.html</td><td>[MAG]</td>       <td>PLEASE SUPPLY INFORMATION</td></tr>
+<tr><td>http://pripareproject.eu/</td>             <td>[CJ]</td>        <td>“PReparing Industry to Privacy-by-design by supporting its Application in Research. Seems a good attempt. Interested ones should read.” http://pripareproject.eu/wp-content/uploads/2014/06/PRIPARE-Position-Paper-v1-WP1.pdf</td></tr>
+<tr><td>https://cryptech.is/</td>                  <td>[EJ]</td>       <td>They are doing crypto stuff for secured communication. Seem to have some guidelines for HW-design and -evaluation.</td></tr>
+</table>               
+               
 # Persons #
 If you want **your Name added**, just send me an email from the email account I have to add.\
 If you want **your Name deleted** because you do not it in a book which is not 100% flavored as you like, or you do not want the information in display, please send me an email.
