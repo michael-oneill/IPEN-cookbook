@@ -20,6 +20,7 @@ This cookbook is just a raw collection of things, ideas and resources. It is not
 <tr><th>Name</th><th>Date</th><th>Place<th>URL</th></tr>
 <tr><td>W3C Workshop on Privacy and User–Centric Controls</td><td>20–21 November 2014</td><td>Berlin,Germany</td><td>http://www.w3.org/2014/privacyws/</td></tr>
 <tr><td>Privacy as Innovation</td><td>27th Nov 2014</td><td>IT University of Copenhagen</td><td>http://privacyasinnovation.wordpress.com/2014/10/21/privacy-as-innovation-round-table-it-universitetet-i-kobenhavn-27-november-kl-15-00-17-00/</td></tr>
+<tr><td>International Workshop on Privacy Engineering</td><td>21st May 2015</td><td>IEEE Sysmposium on Security and Privacy, The Fairmont, San Jose (CA), USA</td><td>http://ieee-security.org/TC/SPW2015/IWPE/</td></tr>
 </table>
   
 # Motivation #
