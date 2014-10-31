@@ -276,21 +276,48 @@ can correlate all the information.**
 <tr><td>[UL]  </td><td>Ulrich Lang</td><td>Supplies information about MD-Security</td></tr>
 <tr><td>[UXOC]</td><td>Ultan X. O’Carroll</td><td>Data protection of Ireland, Supplies information and knowledge</td></tr>
 </table>
+
+
+  
+ 
+ 
+  
                 
   
 # Glossary #
 <table>
 <tr><th>Short</th><th>Element</th><th>Abstract</th></tr>
 <tr><td>ABAC</td><td>Attribute Based Access Control</td><td>Idea: Prof. Ravi Sandhu @see “Literature” above / „Attribute Based Access Control“</td></tr>
+
+<tr><td>Accountability</td><td>Accountability</td><td>by SJE: CONDITIONAL identification, e.g. in a primitive form an self-incriminating statement that I (Stephan Engberg) is this identity (#AXZk45845c) encrypted so only a judge can decrypt it.</td></tr>
+
 <tr><td>Anon...</td><td>Anonymising intermediary</td><td>Example by [MON]: The User is presented with an iframe (other origin) with a form and a textbox, the email address is sent to the intermediary which posts a one-time ID to the containing site (this can be done with JavaScript). The new password along with the ID is sent to the intermediary who forwards it to the user’s email address. The ID is then deleted. The trick would be to make the system distributed i.e. over p2p, so you would not have to have a trusted intermediary. Addition: The intermediary would be trusted to delete the email after it was used. Even if it was co-opted it could only collect the email, not any other information e.g. the containing page url. If it was based on a distributed store then worst case only a subset of emails (without any associated data) could be syphoned off. </td></tr>
+
+
+<tr><td>Authentication</td><td>Authentication</td><td>by SJE: A specific key used to prove "ownership" of the identity. e.g. an asymetric cryptography, so the owner can prove ownership wihtout showing the key.</td></tr>
+
+<tr><td>Authorization</td><td>Authorization</td><td>by SJE: Cryptographic proof where some party, e.g. a government insitution verify that you belong to a group (with certain rigths) without identiffying you within the group </td></tr>
+
 <tr><td>BDSG</td>   <td>Bundesdatenschutzgesetz </td><td>German federal law for data protection</td></tr>
 <tr><td>BP</td>     <td>Business Process</td>        <td>Please refer to: <http://en.wikipedia.org/wiki/Business_process></td></tr>
 <tr><td>BPM</td>    <td>Business Process Modelling</td><td>Constructing BP’s</td></tr>
+
 <tr><td>Consent</td><td>consent</td><td>(copied from SJE, topic: it-law) Consent - at least in Europe, is rather well-defined.You cannot consent to something unspecificed, it has to be purpose specific and informed. Nomatter if citizens use a service that collect data, the provider cannot be free from purpose-limited informed consent. Only explicit exemptions can change this. General marketing is NOT purpose specific. </td></tr>
-<tr><td>contextual identity</td><td>by[SE]</td><td>So whatever data provide value can be exhanged as long as it does not violate contextual boundaries, ie. identity becomes identifiable (linkable). </td></tr>
+
+<tr><td>contextual identity</td><td>contextual identity</td><td>(Provided by SJE):So whatever data provide value can be exhanged as long as it does not violate contextual boundaries, ie. identity becomes identifiable (linkable). </td></tr>
+
 <tr><td>HTPPA</TD><TD>HTTP with Accountability</TD><TD>(Provided by SJE): A new protocol developed e.g. by the MIT, which will automatically monitor the transmission of private data and allow the data owner to examine how it’s being used. Topic is controversial discussed in IPEN. http://newsoffice.mit.edu/2014/whos-using-your-data-httpa-0613</TD></TR>
+
+<tr><td>Identity</td><td>Identity</td><td>As to SJE we should not understand  identity as "assured identification" (worse imaginable and nevery contributing to securty), we should consider identity as a set of security primitives and proofs. Authentication, Accountability, Authorization, Revokation checks, Token transfer. Many of these make use of  advanced such as blinded encryption, mix nets, one-way key derievation. zero-knowledge proofs. </td></tr>
+
 <tr><td>MDS</td>    <td>Model Driven Security</td><td>http://en.wikipedia.org/wiki/Model-driven\_security</td></tr>
+
 <tr><td>OPEN PMF</td><td>OPEN PMF</td><td>http://www.openpmf.com, http://www.objectsecurity.com/en-home-resources-publist.html, http://www.objectsecurity.com/doc/poster.pdf</td><tr>
+
 <tr><td>PET</td><td>Privacy enhancing technologies</td><td>Taken from the PET slides of [SJE]</td></tr>
 <td>PbD</td>    <td>Privacy by Design</td><td>Please refer to: http://en.wikipedia.org/wiki/Privacy_by_Design</td></tr>
+
+<tr><td>Revokation checks</td><td>Revokation checks</td><td>by SJE: various means that check for loss of rights within a certain context. E.g. so you can loose the right to enter a Stadion due to "hooliganism", fine - as long as everybody else can prove not to have lost such a right without identifying. </td></tr>
+
+<tr><td>Token transfer</td><td>Token transfer</td><td>by SJE: payments, tickets etc.</td></tr>
 </table>
