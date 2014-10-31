@@ -288,6 +288,7 @@ can correlate all the information.**
 <tr><td>BPM</td>    <td>Business Process Modelling</td><td>Constructing BP’s</td></tr>
 <tr><td>Consent</td><td>consent</td><td>(copied from SJE, topic: it-law) Consent - at least in Europe, is rather well-defined.You cannot consent to something unspecificed, it has to be purpose specific and informed. Nomatter if citizens use a service that collect data, the provider cannot be free from purpose-limited informed consent. Only explicit exemptions can change this. General marketing is NOT purpose specific. </td></tr>
 <tr><td>contextual identity</td><td>by[SE]</td><td>So whatever data provide value can be exhanged as long as it does not violate contextual boundaries, ie. identity becomes identifiable (linkable). </td></tr>
+<tr><td>HTPPA</TD><TD>HTTP with Accountability</TD><TD>(Provided by SJE): A new protocol developed e.g. by the MIT, which will automatically monitor the transmission of private data and allow the data owner to examine how it’s being used. Topic is controversial discussed in IPEN. http://newsoffice.mit.edu/2014/whos-using-your-data-httpa-0613</TD></TR>
 <tr><td>MDS</td>    <td>Model Driven Security</td><td>http://en.wikipedia.org/wiki/Model-driven\_security</td></tr>
 <tr><td>OPEN PMF</td><td>OPEN PMF</td><td>http://www.openpmf.com, http://www.objectsecurity.com/en-home-resources-publist.html, http://www.objectsecurity.com/doc/poster.pdf</td><tr>
 <tr><td>PET</td><td>Privacy enhancing technologies</td><td>Taken from the PET slides of [SJE]</td></tr>
