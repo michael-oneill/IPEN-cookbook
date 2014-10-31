@@ -211,6 +211,15 @@ Danger: The comment “Useable here for\*” in the tables below is very from su
 </table>
 
 <table>
+<tr><th>Title</th>                   <th>Without PETs, Democracy and Markets will not work</td></th>
+<tr><td>Information supplied by</td> <td>SJE</td></tr>
+<tr><td>Useable here for</td>        <td>Addition of information</td></tr>
+<tr><td>Download-Page</td>           <td>http://ec.europa.eu/justice/news/events/workshop_pets_2009/presentations/ENGBERG_Stephan.pdf</td></tr>
+<tr><td>Further Information</td>     <td>MAG: Well, from my research and business point of view I strictly disagree with the "market" baseline of the presentation. But my opinion does not need to be the one of the IPEN group and this cookbook is for the community and should be kept as complete as possible - And the presentation is short :).</td></tr>
+<tr><td>Added</td>                   <td>31.10.2014</td></tr>
+</table>
+
+<table>
 <tr><th>Title</th>                   <th>Privacy Engineering – A dataflow and ontological approach</th></tr>
 <tr><td>Information supplied by</td> <td>FS</td></tr>
 <tr><td>Useable here for</td>        <td>“it is about applying a structured approach to classification and modelling at data, storage, process, user, and environmental level, illustrated with a few use-cases. It has a proposed (or "sample") vocabulary/taxonomy with the aim of engendering PbD from requirements gathering through to end-of-life, and a means to communicate in the organisation, engineering and legal teams. So its not a "cookbook" in my mind, and is one approach to PbD in the engineering lifecycle. As an example of the depth that data modelling for privacy can go to it is good, I think, but it may not be suitable for all organisations.” as to [UXOC]
@@ -277,8 +286,10 @@ can correlate all the information.**
 <tr><td>BDSG</td>   <td>Bundesdatenschutzgesetz </td><td>German federal law for data protection</td></tr>
 <tr><td>BP</td>     <td>Business Process</td>        <td>Please refer to: <http://en.wikipedia.org/wiki/Business_process></td></tr>
 <tr><td>BPM</td>    <td>Business Process Modelling</td><td>Constructing BP’s</td></tr>
+<tr><td>Consent</td><td>consent</td><td>(copied from SJE, topic: it-law) Consent - at least in Europe, is rather well-defined.You cannot consent to something unspecificed, it has to be purpose specific and informed. Nomatter if citizens use a service that collect data, the provider cannot be free from purpose-limited informed consent. Only explicit exemptions can change this. General marketing is NOT purpose specific. </td></tr>
 <tr><td>contextual identity</td><td>by[SE]</td><td>So whatever data provide value can be exhanged as long as it does not violate contextual boundaries, ie. identity becomes identifiable (linkable). </td></tr>
 <tr><td>MDS</td>    <td>Model Driven Security</td><td>http://en.wikipedia.org/wiki/Model-driven\_security</td></tr>
 <tr><td>OPEN PMF</td><td>OPEN PMF</td><td>http://www.openpmf.com, http://www.objectsecurity.com/en-home-resources-publist.html, http://www.objectsecurity.com/doc/poster.pdf</td><tr>
+<tr><td>PET</td><td>Privacy enhancing technologies</td><td>Taken from the PET slides of [SJE]</td></tr>
 <td>PbD</td>    <td>Privacy by Design</td><td>Please refer to: http://en.wikipedia.org/wiki/Privacy_by_Design</td></tr>
 </table>
