@@ -413,6 +413,21 @@ can correlate all the information.**
 <tr><td>Token transfer</td><td>Token transfer</td><td>by SJE: payments, tickets etc.</td></tr>
 </table>
 
+#Handing over to engineering cookbok#
+
+## SJE cites #
+BY SJE at 02.11.2014 on IPEN list:
+There are several questions that need to be raised in this context. 
+
+a) We need trustworthy "bootable" structures including (external) key devices that we can verify and have to trust to both give us control and at the same time provide the basis for multi-party confidence that you are not a criminal in process of cheating. 
+
+b) We need semi-trusted apps that can provide means intra-context to load new functionality that can interact with our basic system without learning anything that can identify devices or transaction unrelated to the specific context. 
+
+c) We need means to Check-in-isolation, i.e. so each componant can be checked for needed upgrades and fetching these without all the system being transparant. Not only because it is used to locate vulnurabilities and smugle in spyware, but also because of e.g. "Super-cookeis" or digital fingerprinting. 
+
+d) But all of this has to be seen in connection with restoring market processes from the "Google Economics" failure. "Free for (identifed) data" is not free, it is the most costly attack on modern society ever allowed to grow. It is the Data-Ebola and require enforcing similar quantantine mechanisms (contextual identity) to be stopped. 
+
+
 
 # Collection of patterns #
 <table>
