@@ -175,6 +175,24 @@ Danger: The comment “Useable here for\*” in the tables below is very from su
 </table>
 
 <table>
+<tr><th>Title</th>                   <th></th></tr>
+<tr><td>Information supplied by</td> <td></td></tr>
+<tr><td>Useable here for</td>        <td></td></tr>
+<tr><td>Download-Page</td>           <td></td></tr>
+<tr><td>Further Information</td>     <td></td></tr>
+<tr><td>Added</td>                   <td></td></tr>
+</table>
+
+<table>
+<tr><th>Title</th>                   <th>IPEN</th></tr>
+<tr><td>Information supplied by</td> <td>IPEN</td></tr>
+<tr><td>Useable here for</td>        <td>Link to the project homepage</td></tr>
+<tr><td>Download-Page</td>           <td>https://secure.edps.europa.eu/EDPSWEB/edps/EDPS/IPEN</td></tr>
+<tr><td>Further Information</td>     <td>will be found on the homepage.</td></tr>
+<tr><td>Added</td>                   <td>07.11.2014</td></tr>
+</table>
+
+<table>
 <tr><th>Title</th>                   <th>Linking security with Economics</th></tr>
 <tr><td>Information supplied by</td> <td>SJE</td></tr>
 <tr><td>Useable here for</td>        <td>Finding the business and economic value of privacy</td></tr>
@@ -199,6 +217,15 @@ Danger: The comment “Useable here for\*” in the tables below is very from su
 <tr><td>Download-Page</td>           <td>http://blog.privacytrust.eu/public/Reports/NewDigitalSecurityModels.pdf</td></tr>
 <tr><td>Further Information</td>     <td></td></tr>
 <tr><td>Added</td>                   <td>04.10.2014</td></tr>
+</table>
+
+<table>
+<tr><th>Title</th>                   <th>NIST Privacy Engineering Objectives and Risk-Model Discussion Deck</th></tr>
+<tr><td>Information supplied by</td> <td>IPEN</td></tr>
+<tr><td>Useable here for</td>        <td>Further Information</td></tr>
+<tr><td>Download-Page</td>           <td>http://www.nist.gov/itl/csd/upload/nist_privacy_engr_objectives_risk_model_discussion_deck.pdf</td></tr>
+<tr><td>Further Information</td>     <td></td></tr>
+<tr><td>Added</td>                   <td>07.11.2014</td></tr>
 </table>
 
 <table>
@@ -233,9 +260,19 @@ Danger: The comment “Useable here for\*” in the tables below is very from su
 <tr><th>Title</th>                   <th>“Salt” spelled: NaCl</th></tr>
 <tr><td>Information supplied by</td> <td>CvL</td></tr>
 <tr><td>Useable here for</td>        <td>More for the engineering cookbook – About a network comm. library</td></tr>
-<tr><td>Download-Page</td>           <td>http://cdn.media.ccc.de/congress/2013/workshops/30c3-WS-en-YBTI_OS-Bernstein_Lange_Schwabe-NaCl_and_TweetNaCl.webm</td></tr>
+<tr><td>Download-Page</td>           <td>http://cdn.media.ccc.de/congress/2013/workshops/30c3-WS-en-YBTI_OS-Bernstein_Lange_Schwabe-NaCl_and_TweetNaCl.webm</td>
+</tr>
 <tr><td>Further Information</td>     <td>http://cdn.media.ccc.de/congress/2013/workshops/30c3-WS-en-YBTI_OS-Jon_Solworth-Ethos_Operating_System.webm</td></tr>
 <tr><td>Added</td>                   <td>04.10.2014</td></tr>
+</table>
+
+<table>
+<tr><th>Title</th>                   <th></th></tr>
+<tr><td>Information supplied by</td> <td></td></tr>
+<tr><td>Useable here for</td>        <td></td></tr>
+<tr><td>Download-Page</td>           <td></td></tr>
+<tr><td>Further Information</td>     <td></td></tr>
+<tr><td>Added</td>                   <td></td></tr>
 </table>
 
 
