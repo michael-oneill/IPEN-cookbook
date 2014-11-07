@@ -29,26 +29,24 @@ Article 2, German constitution: "Die Freiheit der Person ist unverletzlich." - "
 <tr><td>International Workshop on Privacy Engineering</td><td>21st May 2015</td><td>IEEE Sysmposium on Security and Privacy, The Fairmont, San Jose (CA), USA</td><td>http://ieee-security.org/TC/SPW2015/IWPE/</td></tr>
 </table>
 
-# IPEN workstreams #
-1. Developers' cookbook / A guide for developers on how to integrate privacy into systems, apps, services, etc.
-Issue leader: Dr. Jaap-Henk Hoepman
-2. Business process cookbook / A guide for business designers on how to design privacy into common practices and solutions, for example how to implement data minimisation. Issue leader: Markus Grete
-3. Secure email / communication for all / Exploring methods of insuring secure and private email, on-line chats, etc.
-Issue leader: Carlo von Lösch
-4. Secure short messaging services / phones | Focusing on secure communications, phone calls, text messaging, etc.| Issue leader: Carlo von Lösch
-5. Funding for privacy  | Providing tips and expertise to the challenges of securing funding for research, projects, and product development. | Issue leader: Mike O'Neill
-6. Machine readable privacy terms | Developing a specification language for privacy policies and individuals' privacy preferences, allowing algorithmic matching of the conditions. |Issue leader: tbc
-7. Bridge between the legal and tech communities | Enhancing mutual understanding of the two diverse sectors and creating opportunities for exchange. Developing a common, precise and usable language among the technical and policy/legal communities. |Issue leaders: EDPS and Dr. Stephen Farrell 
-9. Certification of privacy features  | Establishing standards and procedures by which privacy can be assessed and certified.
-Building awareness for the need for privacy certification in private and public procurement. | Issue leader: Marit Hansen
-10. Testing environment and platform for assessing the privacy features of software and systems | The creation of an app that rates the quality of privacy offered by hardware and software, as well as detailing the various privacy features, components.
-Issue leader: tbc
-11. Resources lists | Creating an overview of useful resources towards the aim of privacy engineering and data protection.
-Issue leader: Hannes Tschofenig will handle the tutorial aspect & Jan Schallaböck will contribute.
-12. Suggestion by EJ: The topology of the EP networks, and the special legislation covering its functioning and use, and the expert EP Data Protection Officer and EDPS' direct responsibility, and the limited budget constraints, and the option to replace misbehaving "customers" every 5 years, and the over all well defined function of the institution as a whole - isn't that an attractive space to deploy real stuff in?
-13. Suggestion by FD: •	First let us refocus the thread subject to something like Threat Analysis or Attach Surface Analysis. Then let us list the privacy principles (e.g., the 11 from ISO 29100) that are applicable. Then let us identify privacy threats to those principles.	Then let us attempt to select or construct the privacy safeguards that would mitigate those threats. Then let us construct the test cases to validate that the controls have been implemented and are functioning as specified. We also can leverage other security tools, such as Attack Surface Analysis and Reduction to reduce the entry points and threat area to minimize the privacy risk.
 
-  
+
+# IPEN workstreams #
+<table>
+<tr><th>Nr.</th><th>Title</th><th>Issue</th><th>Issue leader</th></tr>
+<tr><td>1.</td><td>Developers' cookbook</td><td>Guide for developers on how to integrate privacy into systems, apps, services, etc.</td><td>Dr. Jaap-Henk Hoepman</td></tr>
+<tr><td>2.</td><td>Business process cookbook</td><td>A guide for business designers on how to design privacy into common practices and solutions, for example how to implement data minimisation.</td><td>Markus Grete</td></tr>
+<tr><td>3.</td><td>Secure email / communication for all</td><td>Exploring methods of insuring secure and private email, on-line chats, etc.</td><td>Carlo von Lösch</td></tr>
+<tr><td>4.</td><td>Secure short messaging services / phones</td><td>Focusing on secure communications, phone calls, text messaging, etc.</td><td>Carlo von Lösch</td></tr>
+<tr><td>5.</td><td>Funding for privacy</td><td>Providing tips and expertise to the challenges of securing funding for research, projects, and product development.</td><td>Mike O'Neill</td></tr>
+<tr><td>6.</td><td>Machine readable privacy terms</td><td>Developing a specification language for privacy policies and individuals' privacy preferences, allowing algorithmic matching of the conditions.</td><td>tbc</td></tr>
+<tr><td>7.</td><td>Bridge between the legal and tech communities</td><td>Enhancing mutual understanding of the two diverse sectors and creating opportunities for exchange. Developing a common, precise and usable language among the technical and policy/legal communities.</td><td>Dr. Stephen Farrell</td></tr>
+<tr><td>8.</td><td>Certification of privacy features</td><td>Establishing standards and procedures by which privacy can be assessed and certified.
+Building awareness for the need for privacy certification in private and public procurement.</td><td>Marit Hansen</td></tr>
+<tr><td>9.</td><td>Testing environment and platform for assessing the privacy features of software and systems</td><td>The creation of an app that rates the quality of privacy offered by hardware and software, as well as detailing the various privacy features, components.</td><td>tbc</td></tr>
+<tr><td>10.</td><td>Resources lists</td><td>Creating an overview of useful resources towards the aim of privacy engineering and data protection.</td><td>Hannes Tschofenig will handle the tutorial aspect & Jan Schallaböck will contribute.</td></tr>
+</table>
+
 # Motivation #
 If you are in Business Process Modelling (BPM), you need to care about the privacy topics. Let’s start with the basics.
 
