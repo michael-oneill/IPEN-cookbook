@@ -185,9 +185,32 @@ Danger: The comment “Useable here for\*” in the tables below is very from su
 
 <table>
 <tr><th>Title</th>                   <th>ISO/IEC 29100</th></tr>
-<tr><td>Information supplied by</td> <td>IPEN</td></tr>
+<tr><td>Information supplied by</td> <td>KR</td></tr>
 <tr><td>Useable here for</td>        <td>Information technology-Security techniques - Privacy framework</td></tr>
-<tr><td>Download-Page</td>           <td>http://standards.iso.org/ittf/PubliclyAvailableStandards/c045123_ISO_IEC_29100_2011.pdf</td></tr>
+<tr><td>Download-Page</td>           <td>http://standards.iso.org/ittf/PubliclyAvailableStandards/c045123_ISO_IEC_29100_2011.pdf
+</td></tr>
+<tr><td>Further Information</td>     <td></td></tr>
+<tr><td>Added</td>                   <td>07.11.2014</td></tr>
+</table>
+
+<table>
+<tr><th>Title</th>                   <th>ISO/IEC 24760-1</th></tr>
+<tr><td>Information supplied by</td> <td>KR</td></tr>
+<tr><td>Useable here for</td>        <td>Information technology-Security techniques - Privacy framework</td></tr>
+<tr><td>Download-Page</td>           <td>http://standards.iso.org/ittf/PubliclyAvailableStandards/c057914_ISO_IEC_24760-1_2011.zip
+</td></tr>
+<tr><td>Further Information</td>     <td></td></tr>
+<tr><td>Added</td>                   <td>07.11.2014</td></tr>
+</table>
+
+<table>
+<tr><th>Title</th>                   <th>ISO/IEC 29100</th></tr>
+<tr><td>Information supplied by</td> <td>KR</td></tr>
+<tr><td>Useable here for</td>        <td>Information technology — Security 
+techniques — A framework for identity 
+management</td></tr>
+<tr><td>Download-Page</td>           <td>http://standards.iso.org/ittf/PubliclyAvailableStandards/c045123_ISO_IEC_29100_2011.pdf
+</td></tr>
 <tr><td>Further Information</td>     <td></td></tr>
 <tr><td>Added</td>                   <td>07.11.2014</td></tr>
 </table>
@@ -284,14 +307,6 @@ Danger: The comment “Useable here for\*” in the tables below is very from su
 <tr><td>Added</td>                   <td>04.10.2014</td></tr>
 </table>
 
-<table>
-<tr><th>Title</th>                   <th></th></tr>
-<tr><td>Information supplied by</td> <td></td></tr>
-<tr><td>Useable here for</td>        <td></td></tr>
-<tr><td>Download-Page</td>           <td></td></tr>
-<tr><td>Further Information</td>     <td></td></tr>
-<tr><td>Added</td>                   <td></td></tr>
-</table>
 
 
 # Companies and Projects #
@@ -324,6 +339,7 @@ can correlate all the information.**
 <tr><td>[FD]  </td><td>Frank Dawson  </td><td>Supplies literature and more info</td></tr>
 <tr><td>[FS]  </td><td>Florian Stahl </td><td>Supplies information. OWASP might supply “counter-measures” (?)</td></tr>
 <tr><td>[JMdA]</td><td>José M. del Álamo</td><td>Supplies research documentation</td></tr>
+<tr><td>[KR] </td><td>Kai Rannenberg</td><td>Prof.Dr. Kai Rannenberg / Deutsche Telekom Chair of Mobile Business & Multilateral Security | Supplied ISO links and facts</td></tr>
 <tr><td>[MAG] </td><td>Markus Alexander Grete</td><td>Cook at the the Privacy Cookbook for Business Process</td></tr>
 <tr><td>[MON] </td><td>Mike O'Neill</td><td>Cook at Engineers cookbook</td></tr>
 <tr><td>[RB]  </td><td>Richard Beaumont</td><td>Supplies information, see governor.co.uk for company information</td></tr>
@@ -375,4 +391,15 @@ can correlate all the information.**
 <tr><td>Revokation checks</td><td>Revokation checks</td><td>by SJE: various means that check for loss of rights within a certain context. E.g. so you can loose the right to enter a Stadion due to "hooliganism", fine - as long as everybody else can prove not to have lost such a right without identifying. </td></tr>
 
 <tr><td>Token transfer</td><td>Token transfer</td><td>by SJE: payments, tickets etc.</td></tr>
+</table>
+
+
+# Collection of patterns #
+<table>
+<tr><th>Title</th>                   <th></th></tr>
+<tr><td>Information supplied by</td> <td></td></tr>
+<tr><td>Useable here for</td>        <td></td></tr>
+<tr><td>Download-Page</td>           <td></td></tr>
+<tr><td>Further Information</td>     <td></td></tr>
+<tr><td>Added</td>                   <td></td></tr>
 </table>
