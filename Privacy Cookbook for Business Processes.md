@@ -14,6 +14,10 @@ University Mail address: <grete@l3s.de>
 #Disclaimer#
 This cookbook is just a raw collection of things, ideas and resources. It is not a commercial product. It is not 100% correct or free of antagonisms (as the WWW is not "by design"). It is by now not suitable for any specific purpose than collecting information - but it shall be in future.
 
+#Personal disclaimer of [MAG]#
+As more as I read about privacy, my heart feels that privacy is just a tool. And everybody using tools like a srew-wrench knows, that it can break screws. I'm not looking for 100% privacy, but for freedom. 
+Article 2, German constitution: "Die Freiheit der Person ist unverletzlich." - "The freedom of a person is inviolable."
+
 
 #Events on privacy#
 <table>
@@ -25,6 +29,8 @@ This cookbook is just a raw collection of things, ideas and resources. It is not
 
 # IPEN workstreams #
 1. Suggestion by EJ: The topology of the EP networks, and the special legislation covering its functioning and use, and the expert EP Data Protection Officer and EDPS' direct responsibility, and the limited budget constraints, and the option to replace misbehaving "customers" every 5 years, and the over all well defined function of the institution as a whole - isn't that an attractive space to deploy real stuff in?
+2. Suggestion by FD: •	First let us refocus the thread subject to something like Threat Analysis or Attach Surface Analysis. Then let us list the privacy principles (e.g., the 11 from ISO 29100) that are applicable. Then let us identify privacy threats to those principles.	Then let us attempt to select or construct the privacy safeguards that would mitigate those threats. Then let us construct the test cases to validate that the controls have been implemented and are functioning as specified. We also can leverage other security tools, such as Attack Surface Analysis and Reduction to reduce the entry points and threat area to minimize the privacy risk.
+
   
 # Motivation #
 If you are in Business Process Modelling (BPM), you need to care about the privacy topics. Let’s start with the basics.
@@ -164,7 +170,7 @@ Danger: The comment “Useable here for\*” in the tables below is very from su
 <tr><td>Information supplied by</td> <td>CvL</td></tr>
 <tr><td>Useable here for</td>        <td>A Web in Respect of the Constitution is Possible / Ideas about the web.</td></tr>
 <tr><td>Download-Page</td>           <td>http://secushare.org/2014-constitutionalweb.pdf</td></tr>
-<tr><td>Further Information</td>     <td>MAG: To my opinion CvL is trying to convince legislation that privacy and anonymity are the only important things in and therefore should be supported by very strict laws. The lawyers I asked about such topics were of the opinion that e.g. at contracts identifiability is a basic need, e.g. to the German BGB, so I do not share this opinion - we need a privacy "opt out", not a privacy by paranoia, but the article is worth reading.</td></tr>
+<tr><td>Further Information</td>     <td>MAG: To my opinion CvL is trying to convince legislation that privacy and anonymity are the only important things in and therefore should be supported by very strict laws. The lawyers I asked about such topics were of the opinion that e.g. at contracts identifiability is a basic need, e.g. to the German BGB, so I do not share this opinion - we need a privacy "opt out", but the article is worth reading.</td></tr>
 <tr><td>Added</td>                   <td>07.11.2014</td></tr>
 </table>
 
@@ -241,7 +247,8 @@ management</td></tr>
 <tr><td>Information supplied by</td> <td>SJE</td></tr>
 <tr><td>Useable here for</td>        <td>Finding the business and economic value of privacy</td></tr>
 <tr><td>Download-Page</td>           <td>https://ec.europa.eu/digital-agenda/sites/digital-agenda/files/Stephan.pdf</td></tr>
-<tr><td>Further Information</td>     <td>SJE supplied more links which seem not very important for this document because they are more technological related. Just picked one which could help to understand his point of view:  http://blog.privacytrust.eu/public/Slides/au_conf670306_engberg_en.pdf</td></tr>
+<tr><td>Further Information</td>     <td>SJE supplied more links which seem not very important for this document because they are more technological related. Just picked two  which could help to understand his point of view:  http://blog.privacytrust.eu/public/Slides/au_conf670306_engberg_en.pdf
+http://blog.privacytrust.eu/public/EU_SRC07_Engberg_20070326.pdf</td></tr>
 <tr><td>Added</td>                   <td>04.10.2014</td></tr>
 </table>
 
