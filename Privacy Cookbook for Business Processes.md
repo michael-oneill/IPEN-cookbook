@@ -15,13 +15,16 @@ University Mail address: <grete@l3s.de>
 This cookbook is just a raw collection of things, ideas and resources. It is not a commercial product. It is not 100% correct or free of antagonisms (as the WWW is not "by design"). It is by now not suitable for any specific purpose than collecting information - but it shall be in future.
 
 
-#Events#
+#Events on privacy#
 <table>
 <tr><th>Name</th><th>Date</th><th>Place<th>URL</th></tr>
 <tr><td>W3C Workshop on Privacy and User–Centric Controls</td><td>20–21 November 2014</td><td>Berlin,Germany</td><td>http://www.w3.org/2014/privacyws/</td></tr>
 <tr><td>Privacy as Innovation</td><td>27th Nov 2014</td><td>IT University of Copenhagen</td><td>http://privacyasinnovation.wordpress.com/2014/10/21/privacy-as-innovation-round-table-it-universitetet-i-kobenhavn-27-november-kl-15-00-17-00/</td></tr>
 <tr><td>International Workshop on Privacy Engineering</td><td>21st May 2015</td><td>IEEE Sysmposium on Security and Privacy, The Fairmont, San Jose (CA), USA</td><td>http://ieee-security.org/TC/SPW2015/IWPE/</td></tr>
 </table>
+
+# IPEN workstreams #
+1. Suggestion by EJ: The topology of the EP networks, and the special legislation covering its functioning and use, and the expert EP Data Protection Officer and EDPS' direct responsibility, and the limited budget constraints, and the option to replace misbehaving "customers" every 5 years, and the over all well defined function of the institution as a whole - isn't that an attractive space to deploy real stuff in?
   
 # Motivation #
 If you are in Business Process Modelling (BPM), you need to care about the privacy topics. Let’s start with the basics.
@@ -154,6 +157,15 @@ Danger: The comment “Useable here for\*” in the tables below is very from su
 <tr><td>Download-Page</td>           <td>http://www.jssec.org/English</td></tr>
 <tr><td>Further Information</td>     <td>Seems to [MAG] as a technical and technological Guidebook</td></tr>
 <tr><td>Added</td>                   <td>04.10.2014</td></tr>
+</table>
+
+<table>
+<tr><th>Title</th>                   <th>Constitutional Web</th></tr>
+<tr><td>Information supplied by</td> <td>CvL</td></tr>
+<tr><td>Useable here for</td>        <td>A Web in Respect of the Constitution is Possible / Ideas about the web.</td></tr>
+<tr><td>Download-Page</td>           <td>http://secushare.org/2014-constitutionalweb.pdf</td></tr>
+<tr><td>Further Information</td>     <td>MAG: To my opinion CvL is trying to convince legislation that privacy and anonymity are the only important things in and therefore should be supported by very strict laws. The lawyers I asked about such topics were of the opinion that e.g. at contracts identifiability is a basic need, e.g. to the German BGB, so I do not share this opinion - we need a privacy "opt out", not a privacy by paranoia, but the article is worth reading.</td></tr>
+<tr><td>Added</td>                   <td>07.11.2014</td></tr>
 </table>
 
 <table>
@@ -335,7 +347,7 @@ can correlate all the information.**
 <tr><td>[AB]  </td><td>Aral Balkan</td><td>=> Engineers cookbook, Nice project</td></tr>
 <tr><td>[CJ]  </td><td>Christophe Jouvray</td><td>Supplies project information</td></tr>
 <tr><td>[CvL] </td><td>Carlo von Lynx</td><td>Supplies Info about end-to-end encryption, is IPEN lead for mobile solutions</td></tr>
-<tr><td>[EJ]  </td><td>Erik JOSEFSSON</td><td>Supplies company Information</td></tr>
+<tr><td>[EJ]  </td><td>Erik JOSEFSSON</td><td>Member of the European Parliament, holds the flag up high. </td></tr>
 <tr><td>[FD]  </td><td>Frank Dawson  </td><td>Supplies literature and more info</td></tr>
 <tr><td>[FS]  </td><td>Florian Stahl </td><td>Supplies information. OWASP might supply “counter-measures” (?)</td></tr>
 <tr><td>[JMdA]</td><td>José M. del Álamo</td><td>Supplies research documentation</td></tr>
