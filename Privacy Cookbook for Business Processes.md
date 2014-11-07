@@ -261,7 +261,7 @@ management</td></tr>
 <tr><th>Title</th>                   <th>IPEN</th></tr>
 <tr><td>Information supplied by</td> <td>IPEN</td></tr>
 <tr><td>Useable here for</td>        <td>Link to the project homepage</td></tr>
-<tr><td>Download-Page</td>           <td>https://secure.edps.europa.eu/EDPSWEB/edps/EDPS/IPEN</td></tr>
+<tr><td>Download-Page</td>           <td>https://secure.edps.europa.eu/EDPSWEB/edps/EDPS/IPEN and https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/EDPS/IPEN/IPEN_Workshop for the workshop</td></tr>
 <tr><td>Further Information</td>     <td>will be found on the homepage.</td></tr>
 <tr><td>Added</td>                   <td>07.11.2014</td></tr>
 </table>
