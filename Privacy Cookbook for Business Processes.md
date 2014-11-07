@@ -22,6 +22,7 @@ Article 2, German constitution: "Die Freiheit der Person ist unverletzlich." - "
 #Events on privacy#
 <table>
 <tr><th>Name</th><th>Date</th><th>Place<th>URL</th></tr>
+<tr><td>Conference call</td><td>13.11. or later</td><td>The web<td>http://doodle.com/2uni48cqbug92rwf</td></tr>
 <tr><td>Building blocks of the Ubiquitous Digital Single Market</td><td>13 Nov. 2014</td><td>European Parliament, Room: Altiero Spinelli 3E2, Brussels<td>not provided. Ongoing discussion whether the agenada is good or fatal.</td></tr>
 <tr><td>W3C Workshop on Privacy and User–Centric Controls</td><td>20–21 November 2014</td><td>Berlin,Germany</td><td>http://www.w3.org/2014/privacyws/</td></tr>
 <tr><td>Privacy as Innovation</td><td>27th Nov 2014</td><td>IT University of Copenhagen</td><td>http://privacyasinnovation.wordpress.com/2014/10/21/privacy-as-innovation-round-table-it-universitetet-i-kobenhavn-27-november-kl-15-00-17-00/</td></tr>
@@ -29,9 +30,23 @@ Article 2, German constitution: "Die Freiheit der Person ist unverletzlich." - "
 </table>
 
 # IPEN workstreams #
-1. Suggestion by EJ: The topology of the EP networks, and the special legislation covering its functioning and use, and the expert EP Data Protection Officer and EDPS' direct responsibility, and the limited budget constraints, and the option to replace misbehaving "customers" every 5 years, and the over all well defined function of the institution as a whole - isn't that an attractive space to deploy real stuff in?
-2. Suggestion by FD: •	First let us refocus the thread subject to something like Threat Analysis or Attach Surface Analysis. Then let us list the privacy principles (e.g., the 11 from ISO 29100) that are applicable. Then let us identify privacy threats to those principles.	Then let us attempt to select or construct the privacy safeguards that would mitigate those threats. Then let us construct the test cases to validate that the controls have been implemented and are functioning as specified. We also can leverage other security tools, such as Attack Surface Analysis and Reduction to reduce the entry points and threat area to minimize the privacy risk.
-3. Suggestion by SE: We need information as to what kind of funding mechanims, we can expect from IPEN. 
+1. Developers' cookbook / A guide for developers on how to integrate privacy into systems, apps, services, etc.
+Issue leader: Dr. Jaap-Henk Hoepman
+2. Business process cookbook / A guide for business designers on how to design privacy into common practices and solutions, for example how to implement data minimisation. Issue leader: Markus Grete
+3. Secure email / communication for all / Exploring methods of insuring secure and private email, on-line chats, etc.
+Issue leader: Carlo von Lösch
+4. Secure short messaging services / phones | Focusing on secure communications, phone calls, text messaging, etc.| Issue leader: Carlo von Lösch
+5. Funding for privacy  | Providing tips and expertise to the challenges of securing funding for research, projects, and product development. | Issue leader: Mike O'Neill
+6. Machine readable privacy terms | Developing a specification language for privacy policies and individuals' privacy preferences, allowing algorithmic matching of the conditions. |Issue leader: tbc
+7. Bridge between the legal and tech communities | Enhancing mutual understanding of the two diverse sectors and creating opportunities for exchange. Developing a common, precise and usable language among the technical and policy/legal communities. |Issue leaders: EDPS and Dr. Stephen Farrell 
+9. Certification of privacy features  | Establishing standards and procedures by which privacy can be assessed and certified.
+Building awareness for the need for privacy certification in private and public procurement. | Issue leader: Marit Hansen
+10. Testing environment and platform for assessing the privacy features of software and systems | The creation of an app that rates the quality of privacy offered by hardware and software, as well as detailing the various privacy features, components.
+Issue leader: tbc
+11. Resources lists | Creating an overview of useful resources towards the aim of privacy engineering and data protection.
+Issue leader: Hannes Tschofenig will handle the tutorial aspect & Jan Schallaböck will contribute.
+12. Suggestion by EJ: The topology of the EP networks, and the special legislation covering its functioning and use, and the expert EP Data Protection Officer and EDPS' direct responsibility, and the limited budget constraints, and the option to replace misbehaving "customers" every 5 years, and the over all well defined function of the institution as a whole - isn't that an attractive space to deploy real stuff in?
+13. Suggestion by FD: •	First let us refocus the thread subject to something like Threat Analysis or Attach Surface Analysis. Then let us list the privacy principles (e.g., the 11 from ISO 29100) that are applicable. Then let us identify privacy threats to those principles.	Then let us attempt to select or construct the privacy safeguards that would mitigate those threats. Then let us construct the test cases to validate that the controls have been implemented and are functioning as specified. We also can leverage other security tools, such as Attack Surface Analysis and Reduction to reduce the entry points and threat area to minimize the privacy risk.
 
   
 # Motivation #
@@ -150,6 +165,15 @@ If you are from a software vendor for BPM, please support.
 Danger: The comment “Useable here for\*” in the tables below is very from subjective points of view and towards what the writer thinks on his/her own. Please feel free to get me informed, if something is completely wrong.
 
 <table>
+<tr><th>Title</th>                   <th>Art of misdirection</th></tr>
+<tr><td>Information supplied by</td> <td>LP</td></tr>
+<tr><td>Useable here for</td>        <td>Understanding that someone who knows everything about you a misdirect you. Deception is the key.</td></tr>
+<tr><td>Download-Page</td>           <td>http://www.ted.com/talks/apollo_robbins_the_art_of_misdirection</td></tr>
+<tr><td>Further Information</td>     <td></td></tr>
+<tr><td>Added</td>                   <td>07.11.2014</td></tr>
+</table>
+
+<table>
 <tr><th>Title</th>                   <th>Attribute Based Access Control</th></tr>
 <tr><td>Information supplied by</td> <td>MG</td></tr>
 <tr><td>Useable here for</td>        <td>Restricting rights with state-of-the-art Access Systems</td></tr>
@@ -258,14 +282,17 @@ http://blog.privacytrust.eu/public/Reports/securist-ab-recommendations-issue-v3-
 </table>
 
 <table>
-<tr><th>Title</th>                   <th>Art of misdirection</th></tr>
-<tr><td>Information supplied by</td> <td>LP</td></tr>
-<tr><td>Useable here for</td>        <td>Understanding that someone who knows everything about you a misdirect you. Deception is the key.</td></tr>
-<tr><td>Download-Page</td>           <td>http://www.ted.com/talks/apollo_robbins_the_art_of_misdirection</td></tr>
-<tr><td>Further Information</td>     <td></td></tr>
-<tr><td>Added</td>                   <td>07.11.2014</td></tr>
+<tr><th>Title</th>                   <th>(Secure email /) Messaging </th></tr>
+<tr><td>Information supplied by</td> <td>CvL</td></tr>
+<tr><td>Useable here for</td>        <td>Evaluation</td></tr>
+<tr><td>Download-Page</td>           <td>
+http://youbroketheinternet.org/secure-email (from CvL)
+https://www.eff.org/secure-messaging-scorecard (under discussion)
+http://secushare.org/comparison (hint from CvL)
+</td></tr>
+<tr><td>Further Information</td>     <td>Directly in the workpackage from CvL</td></tr>
+<tr><td>Added</td>                   <td>7.11.2014</td></tr>
 </table>
-
 
 <table>
 <tr><th>Title</th>                   <th>Model-driven security (MDS)</th></tr>
