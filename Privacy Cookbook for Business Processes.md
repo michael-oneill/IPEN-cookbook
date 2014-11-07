@@ -157,6 +157,15 @@ Danger: The comment “Useable here for\*” in the tables below is very from su
 </table>
 
 <table>
+<tr><th>Title</th>                   <th>GER - Digitale Agenda 2014-2017</th></tr>
+<tr><td>Information supplied by</td> <td>MAG</td></tr>
+<tr><td>Useable here for</td>        <td>Ideas about privacy in Germany</td></tr>
+<tr><td>Download-Page</td>           <td>http://www.bmi.bund.de/SharedDocs/Downloads/DE/Broschueren/2014/digitale-agenda.pdf?__blob=publicationFile</td></tr>
+<tr><td>Further Information</td>     <td></td></tr>
+<tr><td>Added</td>                   <td>07.11.2014</td></tr>
+</table>
+
+<table>
 <tr><th>Title</th>                   <th>Enable secure product delivery</th></tr>
 <tr><td>Information supplied by</td> <td>[FD]</td></tr>
 <tr><td>Useable here for</td>        <td>Thinking about basic processes as already established to secure coding</td></tr>
@@ -175,12 +184,12 @@ Danger: The comment “Useable here for\*” in the tables below is very from su
 </table>
 
 <table>
-<tr><th>Title</th>                   <th></th></tr>
-<tr><td>Information supplied by</td> <td></td></tr>
-<tr><td>Useable here for</td>        <td></td></tr>
-<tr><td>Download-Page</td>           <td></td></tr>
+<tr><th>Title</th>                   <th>ISO/IEC 29100</th></tr>
+<tr><td>Information supplied by</td> <td>IPEN</td></tr>
+<tr><td>Useable here for</td>        <td>Information technology-Security techniques - Privacy framework</td></tr>
+<tr><td>Download-Page</td>           <td>http://standards.iso.org/ittf/PubliclyAvailableStandards/c045123_ISO_IEC_29100_2011.pdf</td></tr>
 <tr><td>Further Information</td>     <td></td></tr>
-<tr><td>Added</td>                   <td></td></tr>
+<tr><td>Added</td>                   <td>07.11.2014</td></tr>
 </table>
 
 <table>
@@ -254,6 +263,15 @@ Danger: The comment “Useable here for\*” in the tables below is very from su
 <tr><td>Download-Page</td>           <td>http://www.privacyengineeringbook.net (only overview, Amazon book)</td></tr>
 <tr><td>Further Information</td>     <td>Book by Ian Oliver</td></tr>
 <tr><td>Added</td>                   <td>16.10.2014</td></tr>
+</table>
+
+<table>
+<tr><th>Title</th>                   <th>RFC 6973</th></tr>
+<tr><td>Information supplied by</td> <td>IPEN</td></tr>
+<tr><td>Useable here for</td>        <td>Privacy Considerations on Internet Protocols</td></tr>
+<tr><td>Download-Page</td>           <td>https://tools.ietf.org/html/rfc6973</td></tr>
+<tr><td>Further Information</td>     <td></td></tr>
+<tr><td>Added</td>                   <td>07.11.2014</td></tr>
 </table>
 
 <table>
