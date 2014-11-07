@@ -22,6 +22,7 @@ Article 2, German constitution: "Die Freiheit der Person ist unverletzlich." - "
 #Events on privacy#
 <table>
 <tr><th>Name</th><th>Date</th><th>Place<th>URL</th></tr>
+<tr><td>Building blocks of the Ubiquitous Digital Single Market</td><td>13 Nov. 2014</td><td>European Parliament, Room: Altiero Spinelli 3E2, Brussels<td>not provided. Ongoing discussion whether the agenada is good or fatal.</td></tr>
 <tr><td>W3C Workshop on Privacy and User–Centric Controls</td><td>20–21 November 2014</td><td>Berlin,Germany</td><td>http://www.w3.org/2014/privacyws/</td></tr>
 <tr><td>Privacy as Innovation</td><td>27th Nov 2014</td><td>IT University of Copenhagen</td><td>http://privacyasinnovation.wordpress.com/2014/10/21/privacy-as-innovation-round-table-it-universitetet-i-kobenhavn-27-november-kl-15-00-17-00/</td></tr>
 <tr><td>International Workshop on Privacy Engineering</td><td>21st May 2015</td><td>IEEE Sysmposium on Security and Privacy, The Fairmont, San Jose (CA), USA</td><td>http://ieee-security.org/TC/SPW2015/IWPE/</td></tr>
@@ -30,6 +31,7 @@ Article 2, German constitution: "Die Freiheit der Person ist unverletzlich." - "
 # IPEN workstreams #
 1. Suggestion by EJ: The topology of the EP networks, and the special legislation covering its functioning and use, and the expert EP Data Protection Officer and EDPS' direct responsibility, and the limited budget constraints, and the option to replace misbehaving "customers" every 5 years, and the over all well defined function of the institution as a whole - isn't that an attractive space to deploy real stuff in?
 2. Suggestion by FD: •	First let us refocus the thread subject to something like Threat Analysis or Attach Surface Analysis. Then let us list the privacy principles (e.g., the 11 from ISO 29100) that are applicable. Then let us identify privacy threats to those principles.	Then let us attempt to select or construct the privacy safeguards that would mitigate those threats. Then let us construct the test cases to validate that the controls have been implemented and are functioning as specified. We also can leverage other security tools, such as Attack Surface Analysis and Reduction to reduce the entry points and threat area to minimize the privacy risk.
+3. Suggestion by SE: We need information as to what kind of funding mechanims, we can expect from IPEN. 
 
   
 # Motivation #
@@ -249,9 +251,21 @@ management</td></tr>
 <tr><td>Download-Page</td>           <td>https://ec.europa.eu/digital-agenda/sites/digital-agenda/files/Stephan.pdf</td></tr>
 <tr><td>Further Information</td>     <td>SJE supplied more links which seem not very important for this document because they are more technological related. Just picked two  which could help to understand his point of view:  http://blog.privacytrust.eu/public/Slides/au_conf670306_engberg_en.pdf
 http://blog.privacytrust.eu/public/EU_SRC07_Engberg_20070326.pdf
-http://blog.privacytrust.eu/post/2014/07/18/NeedFor-a-Digital-Renaissance</td></tr>
+http://blog.privacytrust.eu/post/2014/07/18/NeedFor-a-Digital-Renaissance
+http://blog.privacytrust.eu/public/Reports/securist-ab-recommendations-issue-v3-0_en.pdf 
+</td></tr>
 <tr><td>Added</td>                   <td>04.10.2014</td></tr>
 </table>
+
+<table>
+<tr><th>Title</th>                   <th>Art of misdirection</th></tr>
+<tr><td>Information supplied by</td> <td>LP</td></tr>
+<tr><td>Useable here for</td>        <td>Understanding that someone who knows everything about you a misdirect you. Deception is the key.</td></tr>
+<tr><td>Download-Page</td>           <td>http://www.ted.com/talks/apollo_robbins_the_art_of_misdirection</td></tr>
+<tr><td>Further Information</td>     <td></td></tr>
+<tr><td>Added</td>                   <td>07.11.2014</td></tr>
+</table>
+
 
 <table>
 <tr><th>Title</th>                   <th>Model-driven security (MDS)</th></tr>
@@ -360,6 +374,7 @@ can correlate all the information.**
 <tr><td>[FS]  </td><td>Florian Stahl </td><td>Supplies information. OWASP might supply “counter-measures” (?)</td></tr>
 <tr><td>[JMdA]</td><td>José M. del Álamo</td><td>Supplies research documentation</td></tr>
 <tr><td>[KR] </td><td>Kai Rannenberg</td><td>Prof.Dr. Kai Rannenberg / Deutsche Telekom Chair of Mobile Business & Multilateral Security | Supplied ISO links and facts</td></tr>
+<tr><td>[LP]</td><td>Lancelot Pecquet</td><td>Provides info</td></tr>
 <tr><td>[MAG] </td><td>Markus Alexander Grete</td><td>Cook at the the Privacy Cookbook for Business Process</td></tr>
 <tr><td>[MON] </td><td>Mike O'Neill</td><td>Cook at Engineers cookbook</td></tr>
 <tr><td>[RB]  </td><td>Richard Beaumont</td><td>Supplies information, see governor.co.uk for company information</td></tr>
@@ -430,6 +445,7 @@ d) But all of this has to be seen in connection with restoring market processes 
 
 
 # Collection of patterns #
+## Literature ##
 <table>
 <tr><th>Title</th>                   <th></th></tr>
 <tr><td>Information supplied by</td> <td></td></tr>
