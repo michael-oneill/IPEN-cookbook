@@ -248,7 +248,8 @@ management</td></tr>
 <tr><td>Useable here for</td>        <td>Finding the business and economic value of privacy</td></tr>
 <tr><td>Download-Page</td>           <td>https://ec.europa.eu/digital-agenda/sites/digital-agenda/files/Stephan.pdf</td></tr>
 <tr><td>Further Information</td>     <td>SJE supplied more links which seem not very important for this document because they are more technological related. Just picked two  which could help to understand his point of view:  http://blog.privacytrust.eu/public/Slides/au_conf670306_engberg_en.pdf
-http://blog.privacytrust.eu/public/EU_SRC07_Engberg_20070326.pdf</td></tr>
+http://blog.privacytrust.eu/public/EU_SRC07_Engberg_20070326.pdf
+http://blog.privacytrust.eu/post/2014/07/18/NeedFor-a-Digital-Renaissance</td></tr>
 <tr><td>Added</td>                   <td>04.10.2014</td></tr>
 </table>
 
