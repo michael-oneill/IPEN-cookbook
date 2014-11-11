@@ -348,6 +348,15 @@ http://secushare.org/comparison (hint from CvL)
 </table>
 
 <table>
+<tr><th>Title</th>                   <th>Privacy: What Developers and IT Professionals Should Know </th></tr>
+<tr><td>Information supplied by</td> <td>SP</td></tr>
+<tr><td>Useable here for</td>        <td>More knowledge about Privacy at Business Processes and Institutions</td></tr>
+<tr><td>Download-Page</td>           <td>(Amazon) http://www.amazon.com/Privacy-Developers-Professionals-Should-paperback/dp/0321617770</td></tr>
+<tr><td>Further Information</td>     <td>A good university library should have it in stock.</td></tr>
+<tr><td>Added</td>                   <td>11.11.2014</td></tr>
+</table>
+
+<table>
 <tr><th>Title</th>                   <th>RFC 6973</th></tr>
 <tr><td>Information supplied by</td> <td>IPEN</td></tr>
 <tr><td>Useable here for</td>        <td>Privacy Considerations on Internet Protocols</td></tr>
@@ -404,6 +413,7 @@ can correlate all the information.**
 <tr><td>[MON] </td><td>Mike O'Neill</td><td>Cook at Engineers cookbook</td></tr>
 <tr><td>[RB]  </td><td>Richard Beaumont</td><td>Supplies information, see governor.co.uk for company information</td></tr>
 <tr><td>[SJE] </td><td>Stephan J. Engberg</td><td>Supplies slides and PDF</td></tr>
+<tr><td>[SP] </td><td>Sieani Pearson</td><td>Researcher at HP etc. Supplies information about Privacy@Business</td></tr>
 <tr><td>[UL]  </td><td>Ulrich Lang</td><td>Supplies information about MD-Security</td></tr>
 <tr><td>[UXOC]</td><td>Ultan X. O’Carroll</td><td>Data protection of Ireland, Supplies information and knowledge</td></tr>
 </table>
